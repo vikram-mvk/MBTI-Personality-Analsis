@@ -1,0 +1,2 @@
+#Have all the files in your E derive or Edit path in thee code.
+Dataset link : https://www.kaggle.com/datasnaek/mbti-type/data
